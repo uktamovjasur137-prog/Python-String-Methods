@@ -1,5 +1,5 @@
 text = input("text: ")
 
-result = text.ljust(7, "5")
+result = text.rjust(7, "0")
 
 print(result)
