@@ -3,3 +3,5 @@ text2 = input("Text: ")
 
 if text1 in text2:
     print(True)
+else:
+    print(False)
